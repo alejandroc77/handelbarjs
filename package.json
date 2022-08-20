@@ -1,0 +1,17 @@
+{
+  "name": "hbs",
+  "version": "1.0.0",
+  "description": "project short",
+  "main": "index.js",
+  "author": "jordy",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  }
+}
